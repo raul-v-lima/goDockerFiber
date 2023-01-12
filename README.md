@@ -1,4 +1,10 @@
-# Build a fullstack app with Go Fiber, Docker, and Postgres
 
+
+
+ Full Stack Go Fiber, Docker, and Postgres aplicativo.
+ 
+ 
+ Referências:
+ 
 - Text tutorial: https://divrhino.com/articles/full-stack-go-fiber-with-docker-postgres/
-- Video tutorial: https://youtu.be/B7hSjNbcVYM
+- 
